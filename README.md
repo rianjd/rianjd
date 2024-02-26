@@ -27,9 +27,9 @@ I'm an active developer with two years of experience in the field, currently stu
 
 <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="22">   Spanish (B2)
 
-## Contatos:
+## Contact:
 <div>
-  <a href="https://whatsa.me/5548991896341/?t=Hey,%20I%20saw%20your%20projects,%20let%27s%20chat!" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://whatsa.me/5548991896341/?t=Hey,%20I%20saw%20your%20GitHub,%20let%27s%20chat!" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/_rianjd" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rianjunckes@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rian-junckes-dilli-68201a239/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
