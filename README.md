@@ -6,8 +6,7 @@
 
 I'm a Full Stack Developer with **3+ years of experience** building web applications, internal systems, and APIs.
 
-I have worked on real-world projects used by companies, focusing on automation, scalability, and clean architecture**.  
-Currently studying Systems Analysis and Development
+I have worked on real-world projects used by companies, focusing on automation, scalability, and clean architecture.  
 
 ---
 
